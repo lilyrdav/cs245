@@ -1,0 +1,28 @@
+[
+    {
+        "First Name" : "Harry",
+        "Last Name" : "Potter",
+        "ID" : "4929473",
+        "Age" : 19,
+        "Date of Birth" : {"Year" : 2003, "Month" : "July", "Day" : 31},
+        "Favorite Real Number" : 7
+    },
+
+    {
+        "First Name" : "Ronald",
+        "Last Name" : "Weasley",
+        "ID" : "1643827",
+        "Age" : 19,
+        "Date of Birth" : {"Year" : 2003, "Month" : "March", "Day" : 1},
+        "Favorite Real Number" : 10
+    },
+
+    {
+        "First Name" : "Hermione",
+        "Last Name" : "Granger",
+        "ID" : "8437254",
+        "Age" : 20,
+        "Date of Birth" : {"Year" : 2002, "Month" : "September", "Day" : 19},
+        "Favorite Real Number" : 33
+    }
+]
